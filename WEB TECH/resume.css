@@ -1,0 +1,19 @@
+
+#ACTIVITIES{
+    color:blue;
+}
+#basic_info{
+    background-color: crimson;
+    font-style: italic;
+}
+#photo{
+    position: relative;
+    float: right;
+}
+img:hover{
+    transform:scale(5);
+}
+body{
+    background: chartreuse;
+    margin: 50px;
+}
